@@ -1,0 +1,29 @@
+{
+    "basics": {
+        "name": "Agustin Schiariti & Kevin Liu",
+        "label": "Blockchain Experts",
+        "job1": "CashOut",
+        "job2": "Protocol"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "Podima",
+                "url": "https://github.com/Podima2/CashOut",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Twitter",
+                "username": "The_Game_2030",
+                "url": "https://twitter.com/The_Game_2030",
+                "x_icon": "fab fa-twitter"
+            },
+            {
+                "network": "Twitter",
+                "username": "whoiskevin",
+                "url": "https://twitter.com/whoiskevin",
+                "x_icon": "fab fa-twitter"
+            }
+        ]
+}
+

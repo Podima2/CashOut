@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="340"
+   height="339.99997"
+   viewBox="0 0 340 339.99997"
+   version="1.1"
+   id="svg2216"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="traditional-circle-monogram-reverse-010101.svg">
+  <defs
+     id="defs2210" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="152.57626"
+     inkscape:cy="168.36926"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-bottom="10"
+     fit-margin-right="10"
+     inkscape:showpageshadow="false"
+     scale-x="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata2213">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(20,20)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.06113"
+       d="M 149.99999,-10 C 61.634459,-9.99999 -9.999974,61.634432 -10,149.99996 c 1.1e-5,88.36556 71.63445,160 159.99999,160.00001 88.36557,-1e-5 160,-71.63444 160.00001,-160.00001 C 309.99998,61.634421 238.36555,-9.99999 149.99999,-10 Z"
+       id="path12"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    
+<g
+       transform="matrix(2.0550389,0,0,2.107458,1447.3302,-421.2298)"
+       id="g857"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       aria-label="k">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path855"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:SunCatcherStudioFont;-inkscape-font-specification:SunCatcherStudioFont;fill:#000000;fill-opacity:1"
+         d="m -637.96356,254.45943 -10,14.66667 10,15 -0.1569,48.4824 -12.76986,-8.71107 -0.1268,-34.13836 -8,-12.94901 h -15.55955 v 30.89862 l -12.04777,-8.34198 0.0249,-57.10685 12.02283,-8.02007 v 29.451 h 15.55955 l 8,-13.89802 V 218.4354 l 12.89955,-9.03493 z" />
+    </g>
+
+
+
+<g
+       transform="matrix(2.0328166,0,0,2.0981581,1126.1795,-270.8399)"
+       id="g865"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       aria-label="l">
+      <path
+         d="m -459.93127,237.33464 23.26876,-14.24224 v -16.61741 h 13.03229 v 0.33334 l -0.13247,22.444 -49.06036,33.26136 0.0468,-123.91821 12.71248,8.78986 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:SunCatcherStudioFont;-inkscape-font-specification:SunCatcherStudioFont;fill:#000000;fill-opacity:1"
+         id="path863"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc" />
+    </g>
+
+
+
+  </g>
+</svg>
